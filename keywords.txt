@@ -1,0 +1,30 @@
+
+#######################################
+# Syntax Coloring Map For EBIOXP4I4O
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Relay	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+Ebxpio4i40	KEYWORD2
+readInput	KEYWORD2
+energize	KEYWORD2
+read	KEYWORD2
+denergize	KEYWORD2
+printState	KEYWORD2
+inputsUpdate	KEYWORD2
+getBoardAddress	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+sate	LITERAL1
+direction	LITERAL1
